@@ -1,0 +1,13 @@
+{
+  "cosmetics": {
+    "lesbian_cloak_2023": {
+      "id": "lesbian_cloak_2023",
+      "type": "cape",
+      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/main/textures/capes/lesbian2023.png",
+      "mcmeta_file": "none",
+      "particleType": "none",
+      "name": "Lesbian Cloak",
+      "animation": false
+    }
+  }
+}
