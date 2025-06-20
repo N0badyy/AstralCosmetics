@@ -1,14 +1,26 @@
 {
-  "cosmetics": {
-    "lesbian_cloak_2023": {
+  "capes": [
+    {
       "id": "lesbian_cloak_2023",
-      "type": "cape",
-      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/lesbian2023.webp",
-      "mcmeta_file": "none",
-      "particleType": "none",
       "name": "Lesbian Cloak",
-      "animation": false,
-      "version": 1
+      "texture": "astralcosmetics:textures/capes/lesbian2023.png",
+      "animation": false
+    },
+    {
+      "id": "rainbow_cape",
+      "name": "Rainbow Cape",
+      "texture": "astralcosmetics:textures/capes/rainbow.png",
+      "animation": true
     }
-  }
+  ],
+  "wings": [
+    {
+      "id": "angel_wings",
+      "name": "Angel Wings",
+      "texture": "astralcosmetics:textures/wings/angel.png",
+      "animation": false
+    }
+  ],
+  "hats": [],
+  "pets": []
 }
