@@ -3,7 +3,7 @@
     {
       "id": "lesbian_cloak_2023",
       "name": "Lesbian Cloak",
-      "texture": "astralcosmetics:textures/capes/lesbian2023.webp",
+      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/lesbian2023.webp",
       "animation": false
     },
     {
