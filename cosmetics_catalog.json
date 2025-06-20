@@ -5,13 +5,8 @@
       "name": "Lesbian Cloak",
       "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/lesbian2023.webp",
       "animation": false
-    },
-    {
-      "id": "rainbow_cape",
-      "name": "Rainbow Cape",
-      "texture": "astralcosmetics:textures/capes/rainbow.png",
-      "animation": true
     }
+    
   ],
   "wings": [
     {
