@@ -3,18 +3,13 @@
     {
       "id": "lesbian_cloak_2023",
       "name": "Lesbian Cloak",
-      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/lesbian2023.webp",
+      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/lesbian2023.png",
       "animation": false
     }
     
   ],
   "wings": [
-    {
-      "id": "angel_wings",
-      "name": "Angel Wings",
-      "texture": "astralcosmetics:textures/wings/angel.png",
-      "animation": false
-    }
+    
   ],
   "hats": [],
   "pets": []
