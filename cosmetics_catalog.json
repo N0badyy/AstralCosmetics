@@ -17,6 +17,12 @@
       "name": "Bisexual Cloak",
       "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/bisexual2023.png",
       "animation": false
+    },
+    {
+      "id": "trans_cloak_2023",
+      "name": "Transgender Cloak",
+      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/trans2023.png",
+      "animation": false
     }
     
   ],
