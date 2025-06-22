@@ -35,6 +35,12 @@
       "name": "Pride Cloak",
       "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/pride2023.png",
       "animation": false
+    },
+    {
+      "id": "genderfluid_cloak_2023",
+      "name": "GenderFluid Cloak",
+      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/genderfluid2023.png",
+      "animation": false
     }
     
   ],
