@@ -23,6 +23,18 @@
       "name": "Transgender Cloak",
       "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/trans2023.png",
       "animation": false
+    },
+    {
+      "id": "nonbinary_cloak_2023",
+      "name": "Nonbinary Cloak",
+      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/nonbinary2023.png",
+      "animation": false
+    },
+    {
+      "id": "pride_cloak_2023",
+      "name": "Pride Cloak",
+      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/pride2023.png",
+      "animation": false
     }
     
   ],
