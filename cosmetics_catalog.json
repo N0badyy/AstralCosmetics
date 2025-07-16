@@ -7,6 +7,12 @@
       "animation": false
     },
     {
+      "id": "lesbian_cloak_2025",
+      "name": "Lesbian Cloak V2",
+      "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/lesbian2025.png",
+      "animation": false
+    },
+    {
       "id": "gay_cloak_2023",
       "name": "Gay Cloak",
       "texture": "https://raw.githubusercontent.com/N0badyy/AstralCosmetics/refs/heads/main/textures/capes/gay2023.png",
